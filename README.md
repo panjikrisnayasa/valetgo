@@ -7,7 +7,7 @@ This project consists of 2 apps: ValetGo Customer and ValetGo Valet.
 ## Some screenshots of ValetGo Customer:
 ### 1. Splash Screen
 
-![Simulator Screen Shot - iPhone 11 Pro - 2022-02-08 at 13 14 50](https://user-images.githubusercontent.com/48062932/152930541-72e71e2e-d946-45f3-a21c-8606883da8f4.png)
+![test][Simulator Screen Shot - iPhone 11 Pro - 2022-02-08 at 13 14 50](https://user-images.githubusercontent.com/48062932/152930541-72e71e2e-d946-45f3-a21c-8606883da8f4.png)
 
 ### 2. Login
 
