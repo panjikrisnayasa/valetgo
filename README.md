@@ -1,10 +1,28 @@
 # ValetGo
+
 ValetGo is a mobile app for use in Singapore that allows users to  book a valet to drive user and their car home after a night of  drinking. This app is made using Flutter with GetX as its state management and this app is still under development.
+
+## Link to the app
+
+### Android
+
+- ValetGo Customer: https://play.google.com/store/apps/details?id=sg.com.valetgo.customer.prod
+- ValetGo Valet: https://play.google.com/store/apps/details?id=sg.com.valetgo.valet.prod
+
+### iOS
+
+- ValetGo Customer
+<img src="https://user-images.githubusercontent.com/48062932/163210309-e796cbb6-9aef-48a7-8f0b-0801eac905da.PNG" width="350">
+
+- ValetGo Valet
+<img src="https://user-images.githubusercontent.com/48062932/163210438-536c36a2-5284-49db-8d2c-2ee8ff2ca5fd.PNG" width="350">
 
 This project consists of 2 apps: ValetGo Customer and ValetGo Valet.
 
 # ValetGo Customer
+
 ## Some screenshots of ValetGo Customer:
+
 ### 1. Splash Screen
 
 <img src="https://user-images.githubusercontent.com/48062932/152930541-72e71e2e-d946-45f3-a21c-8606883da8f4.png" width="350">
@@ -27,7 +45,9 @@ This project consists of 2 apps: ValetGo Customer and ValetGo Valet.
 
 
 # ValetGo Valet
+
 ## Some screenshots of ValetGo Valet:
+
 ### 1. Splash Screen
 
 <img src="https://user-images.githubusercontent.com/48062932/152930698-b8c4c225-45dc-41e7-9923-ce16e42c29c2.png" width="350">
