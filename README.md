@@ -36,7 +36,7 @@ My responsibilities in this project:
 
 ### 1. Splash Screen
 
-<img src="https://user-images.githubusercontent.com/48062932/152930541-72e71e2e-d946-45f3-a21c-8606883da8f4.png" width="350">
+<img src="https://user-images.githubusercontent.com/48062932/166390453-2c48a24d-3e3a-4c8e-981e-d808bf80b823.jpeg" width="350">
 
 ### 2. Login
 
@@ -52,7 +52,7 @@ My responsibilities in this project:
 
 ### 5. On Going Booking
 
-<img src="https://user-images.githubusercontent.com/48062932/152930657-e8afd833-9ec0-4199-9b9f-ceda5b963438.png" width="350">
+<img src="https://user-images.githubusercontent.com/48062932/166390336-50f1edcc-3d9c-4f02-8a74-cd6f675b6b62.PNG" width="350">
 
 
 # ValetGo Valet
