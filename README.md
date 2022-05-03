@@ -1,6 +1,6 @@
 # ValetGo
 
-ValetGO is a mobile app built using Flutter and for use only in Singapore that allows users to book a valet to drive user and their car home after a night of drinking.
+ValetGO is a mobile app built using Flutter and for use only in Singapore that allows users to book a valet to drive user and their car home after a night of drinking. This project was developed for GKE Services Pte Ltd and consists of 2 apps i.e. ValetGo Customer and ValetGo Valet.
 
 My responsibilities in this project:
 - Developed 2 mobile apps from scratch i.e. ValetGo Customer and ValetGo Valet
